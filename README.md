@@ -24,7 +24,7 @@ Below is the BibTex for citing this version of the code.
   title =         {Reproducible feature selection for high-dimensional measurement error models},
   year =          {2024},
   doi =           {10.1287/ijoc.2023.0282.cd},
-  url =           {https://github.com/INFORMSJoC/2023.0282},
+  note =           {Available for download at https://github.com/INFORMSJoC/2023.0282},
 }  
 ```
 
